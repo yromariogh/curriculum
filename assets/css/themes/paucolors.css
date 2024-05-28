@@ -1,12 +1,13 @@
 :root {
-  --color-primary-50: 214 224 233;  /* Color 1 */
-  --color-primary-150: 215 225 234;  /* Color 2 */
-  --color-primary-250: 216 226 235;  /* Color 3 */
-  --color-primary-350: 217 227 236;  /* Color 4 */
-  --color-primary-450: 218 229 235;  /* Color 5 */
-  --color-primary-550: 218 228 237;  /* Color 6 */
-  --color-primary-650: 219 230 236;  /* Color 7 */
-  --color-primary-750: 220 231 237;  /* Color 8 */
-  --color-primary-850: 230 235 239;  /* Color 9 */
-  --color-primary-950: 231 236 239;  /* Color 10 */
+  --color-primary-50: 225 235 242;  /* Tono más claro */
+  --color-primary-100: 181 207 225;  /* Tono claro */
+  --color-primary-200: 136 179 207;  /* Tono claro */
+  --color-primary-300: 92 151 188;  /* Tono claro */
+  --color-primary-400: 67 122 157;  /* Tono claro */
+  --color-primary-500: 45 93 126;  /* Tono intermedio */
+  --color-primary-600: 41 84 113;  /* Tono oscuro */
+  --color-primary-700: 36 74 99;  /* Tono oscuro */
+  --color-primary-800: 32 64 85;  /* Tono oscuro */
+  --color-primary-900: 27 54 72;  /* Tono más oscuro */
+  --color-primary-950: 23 45 59;  /* Tono más oscuro */
 }

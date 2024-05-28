@@ -19,7 +19,7 @@ role: Titular professor at Universidad Industrial de Santander
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HDSP
+  - name: High Dimensional Signal Processing - Research Group
     url: http://hdspgroup.com/
   - name: Universidad Industrial de Santander
     url: https://www.uis.edu.co/

@@ -19,7 +19,7 @@ role: M.Sc. (s) Systems Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HDSP
+  - name: High Dimensional Signal Processing - Research Group
     url: http://hdspgroup.com/
   - name: Universidad Industrial de Santander
     url: https://www.uis.edu.co/
@@ -96,6 +96,6 @@ languages:
 
 ---
 
-## About Me 👩🏻‍💻
+## About Me
 
 I am a master's student in Systems Engineering at Universidad Industrial de Santander and a dedicated young researcher. I graduated Cum Laude from the Systems Engineering program in 2023 at the Universidad Industrial de Santander. My undergraduate thesis received the Outstanding Undergraduate Thesis Award. In the same year, I was awarded the IEEE Signal Processing Society (SPS) Scholarship. My research areas include computational imaging, signal processing, and deep learning. I am deeply passionate about research, driven by the belief that technology and innovation can create significant positive impacts.
