@@ -34,7 +34,8 @@ profiles:
     url: https://www.linkedin.com/in/henry-arguello-2905929/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=R7gjbGIAAAAJ&view_op=list_works
-
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-2202-253X
 interests:
   - Computational Imaging
   - Compressive Sensing
