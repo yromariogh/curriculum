@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Romario Gualdrón
+title: Romario Gualdrón-Hurtado
 
 
 # Full name (for SEO)

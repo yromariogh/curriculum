@@ -20,7 +20,7 @@ publication_types: ["conference-paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Computational Optical Sensing and Imaging 2022"
-publication_short: ""
+publication_short: "In COSI 2022"
 
 abstract: A compressive image recovery method that includes a regularizer in the baseline deep image prior is proposed to consider the calibration sensing model mismatch.
 
