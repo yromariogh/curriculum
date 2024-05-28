@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Paula Arguello
+title: Romario Gualdrón
 
 
 # Full name (for SEO)
-first_name: Paula Andrea
-last_name: Arguello Gutierrez
+first_name: Yesid Romario
+last_name: Gualdrón Hurtado
 
 
 # Is this the primary user of the site?
@@ -15,41 +15,41 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate student
+role: M.Sc. (s) Systems Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: HDSP
     url: http://hdspgroup.com/
+  - name: Universidad Industrial de Santander
+    url: https://www.uis.edu.co/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:paula2191444@correo.uis.edu.co'
+    url: 'mailto:yesid2238324@correo.uis.edu.co'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/pau_argut/
   - icon: brands/github
-    url: https://github.com/paularguello07
+    url: https://github.com/yromariogh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/paula-andrea-arguello-20a814225/
+    url: https://www.linkedin.com/in/yromariogh
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=TTo5b-cAAAAJ&hl=es&oi=ao
+    url: https://scholar.google.com/citations?user=7m8Jaj4AAAAJ&hl=es
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0001-8266-8802
+    url: https://orcid.org/0000-0003-4518-861X
 
 interests:
-  - Artificial Intelligence
-  - Computer Vision
+  - Deep Learning
   - Computational Imaging
+  - Optimization
 
 education:
 
   - area: BSc Systems Engineering
     institution: Universidad Industrial de Santander
-    date_start: 2019-01-01
-    date_end: 2024-09-01
+    date_start: 2019-01-14
+    date_end: 2023-02-05
     summary: |
   
 
@@ -66,32 +66,28 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Fashion
+      - name: Books
         description: ''
         percent: 90
-        icon: person-simple-walk
-      - name: Cats
+        icon: book
+      - name: Movies
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 70
+        icon: cinema
+      - name: TV shows
         description: ''
-        percent: 80
-        icon: camera
+        percent: 70
+        icon: tv
 
 languages:
   - name: Spanish
     percent: 100
   - name: English
-    percent: 85
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
