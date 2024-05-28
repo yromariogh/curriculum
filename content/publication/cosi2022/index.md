@@ -28,7 +28,7 @@ abstract: A compressive image recovery method that includes a regularizer in the
 summary: 'Conference on Computational Optical Sensing and Imaging 2022'
 
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -66,8 +66,7 @@ show_breadcrumb: true
 ---
 
 ### Proposed Method 
-![screen reader text](/cosi2022/method.png "Visual representation of the proposed method, where the upper branch obtains the spectral
-image, and the other branch considers the model mismatch.")
+![screen reader text](/cosi2022/method.png "Visual representation of the proposed method, where the upper branch obtains the spectral image, and the other branch considers the model mismatch.")
 
 ### Qualitative results
 ![screen reader text](/cosi2022/results.png "(a) Testbed CASSI implementation. (b) RGB scene, visual representation of the scene obtained with DIP, and the proposed method. (c) Normalized spectral signatures of the recovered scenes in the two selected points.")

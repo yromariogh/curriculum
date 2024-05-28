@@ -1,50 +1,51 @@
 ---
-title: 'Video-Tensor Completion using a Deep Learning approach'
+title: 'Learning Point Spread Function Invertibility Assessment for Image Deconvolution'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - David Morales
-  - Yesid Fonseca
-  - Henry Arguello
+  - Roman Jacome
+  - Sergio Urrea
+  - profe
+  - Luis Gonzalez
 
 # Author notes (optional)
 author_notes:
 reading_time: false
 
-date: '2020-08-07T00:00:00Z'
-doi: '10.1109/ColCACI50549.2020.9247929'
+date: '2024-05-25T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-07T00:00:00Z'
+publishDate: '2024-05-25T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['conference-paper']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: European Signal Processing Conference 2024
+publication_short: In EUPSIPCO 2024
 show_breadcrumb: true
-abstract: The tensor completion problem solves the recovery of corrupted data in a multidimensional array named as a tensor. The traditional approaches in tensor completion are based on the transform tensor singular value decomposition(tt-SVD). These approaches minimize the tensor nuclear norm in a domain of an orthogonal transformation to induce low tensorial rank representation. Hence, they require previous knowledge of the data to ensure a low tensor rank representation and, therefore, to ensure a good quality reconstruction. On the other hand, based on the wide progress of deep learning in diverse contexts, this paper presents a 3DU-Net architecture for tensor data recovery in the problem of grayscale videos. The proposed method consists of convolutional layers with 3D filters to take advantage of the information at the spatio-temporal dimensions. The experimental results show that the proposed method has better performance in relative error (RE), peak-to-signal-ratio (PSNR), and less runtime compared with the state-of-the-art solutions. In particular, in the presence of noise, our proposed approach improves the recovery in up to 5.99 dB, and 0.09 in the RE with an 85% of corrupted pixels. In the noiseless case, the proposed architecture improves in 4.39 dB and 0.07 in the RE, when an 85% of the data is lost. Furthermore, the proposed method shows to be faster than the state-of-the-art in the reconstruction time in at least 2.5 times.
+abstract: Deep-learning (DL)-based image deconvolution (ID) has exhibited remarkable recovery performance, surpassing traditional linear methods. However, unlike traditional ID approaches that rely on analytical properties of the point spread function (PSF) to achieve high recovery performance—such as specific spectrum properties or small conditional numbers in the convolution matrix—DL techniques lack quantifiable metrics for evaluating PSF suitability for DL-assisted recovery. Aiming to enhance deconvolution quality, we propose a metric that employs a non-linear approach to learn the invertibility of an arbitrary PSF using a neural network by mapping it to a unit impulse. A lower discrepancy between the mapped PSF and a unit impulse indicates a higher likelihood of successful inversion by a DL network. Our findings reveal that this metric correlates with high recovery performance in  DL and traditional methods, thereby serving as an effective regularizer in deconvolution tasks.  This approach reduces the computational complexity over conventional condition number assessments and is a differentiable process. These useful properties allow its application in designing diffractive optical elements through end-to-end (E2E) optimization, achieving invertible PSFs, and outperforming the E2E baseline framework.
 
 # Summary. An optional shortened abstract.
-summary: 2020 IEEE Colombian Conference on Applications of Computational Intelligence (IEEE ColCACI 2020)
+summary: EUPSIPCO 2024
 
 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9247929'
+url_pdf: 'https://arxiv.org/pdf/2405.16343v1'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,7 +58,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   placement: 3
-  focal_point: 'left'
+  focal_point: 'center'
   preview_only: false
 
 
@@ -78,3 +79,11 @@ slides: ""
 
 ---
 
+### Results with Gaussian filters
+![screen reader text](/PSFinv/results1.png "")
+
+### Results for a Variety of PSFs
+![screen reader text](/PSFinv/results2.png "")
+
+### Results for DOE design
+![screen reader text](/PSFinv/results3.png "Comparative results illustrating the impact of incorporating the proposed invertibility metric into the E2E optimization loss function for ID.")
