@@ -98,5 +98,4 @@ languages:
 
 ## About Me 👩🏻‍💻
 
-I am a Systems Engineering student at Universidad Industrial de Santander and a dedicated young researcher. My research areas lies in computational imaging, privacy-preserving techniques, medical imaging, deep learning, and machine learning.
-My motivation stems from a profound passion for research. I'm driven by the belief that technology and innovation can bring about positive change, and I'm dedicated to contributing to the development of Colombia
+I am a master's student in Systems Engineering at Universidad Industrial de Santander and a dedicated young researcher. I graduated Cum Laude from the Systems Engineering program in 2023 at the Universidad Industrial de Santander. My undergraduate thesis received the Outstanding Undergraduate Thesis Award. In the same year, I was awarded the IEEE Signal Processing Society (SPS) Scholarship. My research areas include computational imaging, signal processing, and deep learning. I am deeply passionate about research, driven by the belief that technology and innovation can create significant positive impacts.

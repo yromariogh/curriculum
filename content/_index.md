@@ -51,7 +51,7 @@ sections:
     design:
       css_class: custom-block , sombra
       view: article-grid
-      columns: 2
+      columns: 3
       fill_image: false
 
 
@@ -67,7 +67,7 @@ sections:
       css_class: custom-block 
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
 
     
   - block: collection_custom
