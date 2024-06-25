@@ -2,7 +2,7 @@
 title: "Compressive Spectral Image Reconstruction by using a Deep Image Prior with a Mismatch Regularizer"
 authors:
 - admin
-- Jorge Bacca
+- bacca
 - profe
 
 author_notes:
@@ -28,7 +28,7 @@ abstract: A compressive image recovery method that includes a regularizer in the
 summary: 'Computational Optical Sensing and Imaging 2022'
 
 
-featured: true
+featured: false
 
 # links:
 # - name: ""

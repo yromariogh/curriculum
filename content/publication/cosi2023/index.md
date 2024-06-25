@@ -6,8 +6,8 @@ title: 'Learning a Spatially-Variant Propagation Model for Compressive Spectral 
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Hans Garcia
-  - Jorge Bacca
+  - hans
+  - bacca
   - profe
 
 # Author notes (optional)

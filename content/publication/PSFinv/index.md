@@ -6,10 +6,10 @@ title: 'Learning Point Spread Function Invertibility Assessment for Image Deconv
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Roman Jacome
-  - Sergio Urrea
+  - roman
+  - sergio
   - profe
-  - Luis Gonzalez
+  - luis_gonzalez
 
 # Author notes (optional)
 author_notes:
@@ -28,12 +28,12 @@ publication_types: ['conference-paper']
 
 # Publication name and optional abbreviated publication name.
 publication: European Signal Processing Conference 2024
-publication_short: In EUPSIPCO 2024
+publication_short: In EUSIPCO 2024
 show_breadcrumb: true
 abstract: Deep-learning (DL)-based image deconvolution (ID) has exhibited remarkable recovery performance, surpassing traditional linear methods. However, unlike traditional ID approaches that rely on analytical properties of the point spread function (PSF) to achieve high recovery performance—such as specific spectrum properties or small conditional numbers in the convolution matrix—DL techniques lack quantifiable metrics for evaluating PSF suitability for DL-assisted recovery. Aiming to enhance deconvolution quality, we propose a metric that employs a non-linear approach to learn the invertibility of an arbitrary PSF using a neural network by mapping it to a unit impulse. A lower discrepancy between the mapped PSF and a unit impulse indicates a higher likelihood of successful inversion by a DL network. Our findings reveal that this metric correlates with high recovery performance in  DL and traditional methods, thereby serving as an effective regularizer in deconvolution tasks.  This approach reduces the computational complexity over conventional condition number assessments and is a differentiable process. These useful properties allow its application in designing diffractive optical elements through end-to-end (E2E) optimization, achieving invertible PSFs, and outperforming the E2E baseline framework.
 
 # Summary. An optional shortened abstract.
-summary: EUPSIPCO 2024
+summary: EUSIPCO 2024
 
 
 
