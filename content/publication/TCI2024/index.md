@@ -43,7 +43,7 @@ featured: true
 
 url_pdf: 'https://opg.optica.org/abstract.cfm?uri=COSI-2023-CTh3B.2'
 url_code: 'https://github.com/yromariogh/DNL2'
-url_dataset: 'https://github.com/hdspgroup/datasets'
+url_dataset: ''
 url_poster: 'https://drive.google.com/file/d/1U6cVhdxNf7-2HU_67_hu58cWoxDE-fu7/view?usp=sharing'
 # url_project: ''
 # url_slides: ''
@@ -73,7 +73,36 @@ show_breadcrumb: true
 slides: ""
 ---
 
-### Quantitative results
-![screen reader text](/TCI2024/LAB.png "Influence of the proposed regularizer in the reconstructions' quality")
+### Proposed algorithm
+![screen reader text](/TCI2024/ALGORITHM.png "")
+
+### Simulation results
+
+![screen reader text](/TCI2024/Ys_by_deg_level_white+Mx.png "Fig. 3.   Simulated measurement $\mathbf{y}_i$ for each degradation level $D_i$. (b) Absolute error of each simulated measurement with respect to the non-degradation scenario $\mathbf{y}_0=\mathbf{Hx}$. (c) Improved measurement obtained with the $\text{DNL}^2$ model. (d) Absolute error of each simulated measurement with respect to the improved measurement. The evident reduction in error across degradation levels underscores its robustness and independence.")
+
+![screen reader text](/TCI2024/ARAD_METRICS_NL+SNR.png "Fig. 4.   (a) Simulation results and ablation studies of $\lambda_1$ under each degradation level in the ARAD dataset. Note the improvement in the different metrics by increasing the proposed regularizer influence through the coefficient $\lambda_1$, with $\lambda_1=0$ as the baseline PnP with the linear propagation model. (b) Average results of different testing images evaluating the impact of additional noise at the highest degradation level $D_4$ from the ARAD dataset.")
+
+![screen reader text](/TCI2024/TABLE_iv.png ".")
+
+### Hardware experiments
+
+![screen reader text](/TCI2024/PSNRvsPSNR+Convergence+Split_Results.png "Fig. 5.   (a) Average PSNR of the estimated measurements with $\text{DNL}^2$ model through iterations. (b) Comparison between the $\text{DNL}^2$ measurement performance and reconstruction quality using $\lambda=1$. (c) Convergence of the $\text{DNL}^2$ recovery loss. (d-f) Reconstruction quality with real data and ablation studies of the proposed regularizer influence, $\lambda_1$. The quality of the reconstructions shows a significant improvement, with an increase of nearly 3 dB in PSNR compared to the simple propagation model (i.e., $\lambda_1=0$).")
+
+![screen reader text](/TCI2024/4x6-LABands.png "Fig. 6.   Some recovered spectral bands for an acquired testing spectral image. Note the visual and metric improvement in the false RGB representation and across the spectral bands using the $\text{DNL}^2$ model, i.e., $\lambda_1=1$.")
+
+![screen reader text](/TCI2024/X_and_morePSfs.png "Fig. 7.   The input of the $\text{DNL}^2$ model is the spectral image in (a) resulting in a set of spatio-spectrally variant PSFs within the domain of the compressed measurements, which are spectrally plotted in (b) and two of them are zoomed in (d). The linear propagation model PSF is shown in (c).")
+
+### State-of-the-art comparison
+
+![screen reader text](/TCI2024/TABLE_vi.png ".")
+
+![screen reader text](/TCI2024/LAB.png "Fig. 8.   Experimental reconstructions comparison as false RGB and corresponding signatures between Song et al.'s [22] and DNL² propagation model. Note the visual and quantitative improvement for the three testing images and in the corresponding spectral signatures at points A, B, and C.")
+
+
+### Supplementary material
+
+![screen reader text](/TCI2024/TABLE_vi.png ".")
+
+![screen reader text](/TCI2024/LAB.png "Fig. 8.   Experimental reconstructions comparison as false RGB and corresponding signatures between Song et al.'s [22] and DNL² propagation model. Note the visual and quantitative improvement for the three testing images and in the corresponding spectral signatures at points A, B, and C.")
 
 
