@@ -82,7 +82,7 @@ slides: ""
 
 ![screen reader text](/TCI2024/ARAD_METRICS_NL+SNR.png "Fig. 4.   (a) Simulation results and ablation studies of $\lambda_1$ under each degradation level in the ARAD dataset. Note the improvement in the different metrics by increasing the proposed regularizer influence through the coefficient $\lambda_1$, with $\lambda_1=0$ as the baseline PnP with the linear propagation model. (b) Average results of different testing images evaluating the impact of additional noise at the highest degradation level $D_4$ from the ARAD dataset.")
 
-![screen reader text](/TCI2024/TABLE_iv.png ".")
+![screen reader text](/TCI2024/TABLE_IV.png ".")
 
 ### Hardware experiments
 
@@ -94,15 +94,19 @@ slides: ""
 
 ### State-of-the-art comparison
 
-![screen reader text](/TCI2024/TABLE_vi.png ".")
+![screen reader text](/TCI2024/TABLE_VI.png ".")
 
 ![screen reader text](/TCI2024/LAB.png "Fig. 8.   Experimental reconstructions comparison as false RGB and corresponding signatures between Song et al.'s [22] and DNL² propagation model. Note the visual and quantitative improvement for the three testing images and in the corresponding spectral signatures at points A, B, and C.")
 
 
 ### Supplementary material
 
-![screen reader text](/TCI2024/TABLE_vi.png ".")
+![screen reader text](/TCI2024/Sup_ALGORITHM.png ".")
 
-![screen reader text](/TCI2024/LAB.png "Fig. 8.   Experimental reconstructions comparison as false RGB and corresponding signatures between Song et al.'s [22] and DNL² propagation model. Note the visual and quantitative improvement for the three testing images and in the corresponding spectral signatures at points A, B, and C.")
+![screen reader text](/TCI2024/METRICS_PRIOR.png "Fig. 1. Results and ablation studies of $\lambda_1$ using a Fixed~\cite{dabov2007image} and Learned prior~\cite{zhang2021plug} with experimental data.")
+
+![screen reader text](/TCI2024/LAB_PRIOR.png "Fig. 2. Experimental reconstructions comparison as false RGB and corresponding signatures between Song et al.'s~\cite{song2022high} and $\text{DNL}^2$ propagation model with a fixed \cite{dabov2007image} or learned prior \cite{zhang2021plug}.")
+
+![screen reader text](/TCI2024/Table_Sup1.png "")
 
 
