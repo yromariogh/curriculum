@@ -11,11 +11,11 @@ authors:
 
 # Author notes (optional)
 reading_time: false
-date: '2024-06-24T00:00:00Z'
-doi: '10.1364/COSI.2023.CTh3B.2'
+date: '2024-07-05T00:00:00Z'
+doi: '10.1109/TCI.2024.3422900'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-24T00:00:00Z'
+publishDate: '2024-07-05T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -41,9 +41,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://opg.optica.org/abstract.cfm?uri=COSI-2023-CTh3B.2'
+url_pdf: 'https://ieeexplore.ieee.org/document/10587094'
 url_code: 'https://github.com/yromariogh/DNL2'
-url_dataset: ''
+# url_dataset: ''
 url_poster: 'https://drive.google.com/file/d/1U6cVhdxNf7-2HU_67_hu58cWoxDE-fu7/view?usp=sharing'
 # url_project: ''
 # url_slides: ''
