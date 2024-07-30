@@ -17,9 +17,9 @@ sections:
       # The user's folder name in `content/authors/`
       # Show a call-to-action button under your biography? (optional)
       # To link to a file, upload it to your `static/uploads/` folder
-      #button:
-      #  text: Download CV
-      #  url: uploads/resume.pdf
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
         
   
     design:
@@ -37,8 +37,8 @@ sections:
     id: papers
     content:
       
-      title: Featured Publications 🚀
-      text: 📚✨ Diving into innovation—check out my featured publications! 🌐🔍
+      title: Featured Publications
+      text: Diving into innovation—check out my featured publications!
       filters:
         folders:
           - publication
@@ -58,8 +58,8 @@ sections:
   - block: collection_custom
     id: projects
     content:
-      title: Selected Projects 💡
-      text: 🔧🌟 Crafting solutions. Explore my selected projects! 🛠️💻
+      title: Selected Projects
+      text: Crafting solutions. Explore my selected projects!
       filters:
         folders:
           - project
@@ -67,13 +67,13 @@ sections:
       css_class: custom-block 
       view: article-grid
       fill_image: false
-      columns: 2
+      columns: 1
 
     
   - block: collection_custom
     content:
-      title: Recent Publications 📈
-      text: "Here are my recent publications! 📘📖 Journals and coferences."
+      title: Recent Publications
+      text: "Here are my recent publications! Journals and coferences."
       filters:
         folders:
           - publication

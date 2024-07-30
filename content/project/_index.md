@@ -40,5 +40,5 @@ sections:
       fill_image: false
       # Choose a listing view
       view: article-grid  
-      columns: 2
+      columns: 1
 ---

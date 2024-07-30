@@ -23,10 +23,10 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: True
   - block: resume-awards
     content:
-      title: Awards
+      title: Prizes & Awards
       username: admin
   - block: resume-languages
     content:

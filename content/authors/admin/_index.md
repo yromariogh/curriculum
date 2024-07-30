@@ -56,7 +56,11 @@ education:
     institution: Universidad Industrial de Santander
     date_start: 2019-01-14
     date_end: 2023-02-05
-    summary: |
+    summary: | 
+
+    button:
+        text: Thesis Book (Spanish)
+        url: ../uploads/libro.pdf
 
 
   
@@ -65,6 +69,8 @@ education:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
+    color: '#084B8A'
+    color_border: '#084B8A'
     items:
       - name: Python
         description: ''
@@ -74,18 +80,22 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
+      - name: Academic Writing
+        description: ''
+        percent: 70
+        icon: chart-bar
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#084B8A'
+    color_border: '#084B8A'
     items:
       - name: Books
         description: ''
         percent: 90
-        icon: book
+        icon: book-open
       - name: Movies
         description: ''
         percent: 70
-        icon: cinema
+        icon: tv
       - name: TV shows
         description: ''
         percent: 70
@@ -97,11 +107,59 @@ languages:
   - name: English
     percent: 80
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+Awards:
+  - title: SPS Scholarship Recipient
+    awarder: IEEE Signal Processing Society.
+    date: 2023-01-01
+    url: 
+    summary: |
+    
+  - title: Cum Laude
+    awarder: Universidad Industrial de Santander, Colombia.
+    date: 2023-06-18
+    url: 
+    summary: |
+      Universidad Industrial de Santander (UIS), Colombia. GPA: 4.72/5.0
 
+  - title: Outstanding Thesis
+    awarder: Universidad Industrial de Santander, Colombia.
+    date: 2023-03-20
+    url: ../uploads/libro.pdf
+    summary: |
+      Author of the Undergraduate Thesis: "Iterative algorithm for spectral image reconstruction considering optical system mismatch using a reinforcement regularizer"
+
+  - title: National Professional Exams
+    awarder: Colombian scholastic aptitude test
+    date: 2023-01-01
+    url: 
+    summary: |
+      Percentile of 100 in "Scientific Thinking - Mathematics and Statistics," 99 in "Quantitative Reasoning," 98 in "Engineering Project Formulation," and 97 in English.
+
+  - title: Recognition for Academic Excellence as Research Student
+    awarder: High Dimensional Signal Processing (HDSP) research group, Universidad Industrial de Santander, Colombia.
+    date: 2022-01-01
+    url: 
+    summary: |
+      
+  - title: Distinguished Student
+    awarder: High Dimensional Signal Processing (HDSP) research group, Universidad Industrial de Santander, Colombia.
+    date: 2019-01-01
+    url: 
+    summary: |
+
+  - title: National Secondary School Exams
+    awarder: High Dimensional Signal Processing (HDSP) research group, Universidad Industrial de Santander, Colombia.
+    date: 2018-01-01
+    url: 
+    summary: |
+      Achieved a 100th percentile in all areas, earning a scholarship for academic excellence.
+
+  - title: National PISA Test Competition
+    awarder: Ministry of Education, Colombia.
+    date: 2017-01-01
+    url: 
+    summary: |
+      First place among 31 top students in Colombia.
 ---
 
 ## About Me
