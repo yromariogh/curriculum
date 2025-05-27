@@ -45,7 +45,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
       
       button:
         text: view more
@@ -54,7 +54,7 @@ sections:
     design:
       css_class: custom-block , sombra
       view: article-grid
-      columns: 3
+      columns: 4
       fill_image: false
 
 
