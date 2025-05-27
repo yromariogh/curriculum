@@ -28,7 +28,7 @@ abstract: A compressive image recovery method that includes a regularizer in the
 summary: 'Computational Optical Sensing and Imaging 2022'
 
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

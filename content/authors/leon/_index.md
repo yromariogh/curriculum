@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Roman Jacome
+title: Leon Suarez
 
 
 # Full name (for SEO)
-first_name: Roman Alejandro
-last_name: Jacome Carrascal
+first_name: Leon
+last_name: Suarez
 
 
 # Is this the primary user of the site?
@@ -28,21 +28,21 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:roman2162474@correo.uis.edu.co'
+    url: 'mailto:leonsuarez24@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/romanjacome99
+    url: https://github.com/leonsuarez24
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/roman-alejandro-j%C3%A1come-carrascal-9ab1b71aa/
+    url: https://www.linkedin.com/in/leon-suarez24/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=n3cPHTMAAAAJ&hl=es
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-3621-0275
+    url: https://scholar.google.com/citations?user=FAT4XIUAAAAJ&hl=fr&oi=sra
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-3621-0275
 interests:
   - Computational Imaging
   - Compressive Sensing
 
-# education:
+#education:
 
 #   - area: Ph.D. in Electrical and Computer Engineering
 #     institution: University of Delaware

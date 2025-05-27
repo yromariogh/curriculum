@@ -111,7 +111,7 @@ languages:
 Awards:
   - title: SPS Scholarship Recipient
     awarder: IEEE Signal Processing Society.
-    date: 2023-2024
+    date: 2024-01-01
     url: 
     summary: |
     

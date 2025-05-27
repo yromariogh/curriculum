@@ -45,7 +45,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
       
       button:
         text: view more

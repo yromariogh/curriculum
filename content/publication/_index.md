@@ -19,6 +19,6 @@ sections:
     design:
       view: community/citation
       fill_image: false
-      columns: 3
+      columns: 4
 
 ---
