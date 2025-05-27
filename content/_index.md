@@ -57,6 +57,17 @@ sections:
       columns: 4
       fill_image: false
 
+    
+  - block: resume-awards
+    content:
+      title: -------- Prizes and Awards --------
+      text: Celebrating achievements! 🏆 Here are my awards and recognitions.
+   
+      username: admin
+    design:
+      css_class: custom-block
+      view: community/citation
+
 
   - block: collection_custom
     id: projects
@@ -67,24 +78,9 @@ sections:
         folders:
           - project
     design:
-      css_class: custom-block 
+      css_class: custom-block, sombra
       view: article-grid
       fill_image: false
       columns: 1
-
-    
-  - block: collection_custom
-    content:
-      title: Recent Publications
-      text: "Here are my recent publications! Journals and coferences."
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      css_class: custom-block , sombra
-      view: community/citation
-
-
 
 ---
