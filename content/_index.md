@@ -19,7 +19,7 @@ sections:
       # To link to a file, upload it to your `static/uploads/` folder
       button:
         text: curriculum
-        url: uploads/cv.pdf
+        url: uploads/Romario_CV.pdf
         
   
     design:
