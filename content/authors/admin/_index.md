@@ -51,7 +51,6 @@ education:
     institution: Universidad Industrial de Santander
     date_start: 2023-08-14
     date_end: 2025-06-05
-    summary: |
 
   - area: B.Sc. Systems Engineering
     institution: Universidad Industrial de Santander
@@ -113,7 +112,6 @@ Awards:
     awarder: IEEE Signal Processing Society.
     date: 2024-01-01
     url: 
-    summary: |
     
   - title: Cum Laude
     awarder: Universidad Industrial de Santander, Colombia.
@@ -140,13 +138,11 @@ Awards:
     awarder: High Dimensional Signal Processing (HDSP) research group, Universidad Industrial de Santander, Colombia.
     date: 2022-01-01
     url: 
-    summary: |
       
   - title: Distinguished Student
     awarder: High Dimensional Signal Processing (HDSP) research group, Universidad Industrial de Santander, Colombia.
     date: 2019-01-01
     url: 
-    summary: |
 
   - title: National Secondary School Exams
     awarder: High Dimensional Signal Processing (HDSP) research group, Universidad Industrial de Santander, Colombia.
@@ -164,5 +160,4 @@ Awards:
 ---
 
 ## About Me
-
-I am a Master's student in Systems Engineering at Universidad Industrial de Santander and a dedicated young researcher. I graduated Cum Laude from the Systems Engineering program in 2023 at the Universidad Industrial de Santander. My undergraduate thesis received the Outstanding Undergraduate Thesis Award. In 2023 and 2024, I was awarded the IEEE Signal Processing Society (SPS) Scholarship. My research areas include computational imaging, signal processing, and deep learning. I am deeply passionate about research, driven by the belief that technology and innovation can create significant positive impacts.
+I am a young researcher at the High Dimensional Signal Processing Group (HDSP) in Colombia, dedicated to advancing the fields of computational imaging, signal processing, and deep learning. My work is driven by the conviction that technology and innovation are key levers for positive impact. Academically, I have a robust background from the Universidad Industrial de Santander, having completed my Master’s in Systems Engineering in 2025. I graduated with high honors from the Systems Engineering undergraduate program in 2023 (Cum Laude), and my thesis was recognized with the Outstanding Undergraduate Thesis Award. My academic and research potential has been further recognized by the IEEE Signal Processing Society (SPS) Scholarship in both 2023 and 2024.

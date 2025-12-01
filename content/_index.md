@@ -18,11 +18,8 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       # To link to a file, upload it to your `static/uploads/` folder
       button:
-        text: CV
+        text: curriculum
         url: uploads/cv.pdf
-      button:
-        text: Resume
-        url: uploads/resume.pdf
         
   
     design:
