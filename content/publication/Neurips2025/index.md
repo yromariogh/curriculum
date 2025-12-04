@@ -15,7 +15,7 @@ publication_short: "Neurips 2025"
 abstract: Imaging inverse problems aim to recover high-dimensional signals from undersampled, noisy measurements, a fundamentally ill-posed task with infinite solutions in the null-space of the sensing operator. To resolve this ambiguity, prior information is typically incorporated through handcrafted regularizers or learned models that constrain the solution space. However, these priors typically ignore the task-specific structure of that null-space. In this work, we propose Non-Linear Projections of the Null-Space (NPN), a regularization that promotes solutions lying in a learned, low-dimensional projection of the sensing matrix’s null-space. This yields interpretable, operator-aware priors and complements existing reconstruction frameworks. Empirically, NPN improves reconstruction fidelity across compressive sensing, deblurring, super-resolution, CT, and MRI with plug-and-play methods, unrolling networks, deep image prior, and diffusion models.
 summary: "Null-space–aware prior that plugs into PnP, unrolling, DIP, and diffusion solvers to boost reconstructions across CS, MRI, CT, and deblurring."
 featured: true
-url_pdf: 'https://arxiv.org/pdf/2510.01608'
+url_pdf: 'https://openreview.net/pdf?id=G67ZNmeWJ5'
 url_code: 'https://github.com/yromariogh/NPN'
 url_poster: 'https://drive.google.com/file/d/16RnQku3sUIMAqnIYE2HcFrsB2e2M-gSD/view?usp=sharing'
 projects: []
