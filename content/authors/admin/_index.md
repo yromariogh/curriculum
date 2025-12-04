@@ -15,7 +15,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: M.Sc. (c) Systems Engineering
+role: M.Sc. Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -40,19 +40,19 @@ profiles:
     url: https://orcid.org/0000-0003-4518-861X
 
 interests:
-  - Deep Learning
-  - Computational Imaging
+  - Signal and Image Processing
+  - Machine Learning
   - Optimization
-  - Signal Processing
+  - Computational Imaging
 
 education:
 
-  - area: M.Sc. (c) Systems Engineering
+  - area: M.Sc. Computer Science
     institution: Universidad Industrial de Santander
     date_start: 2023-08-14
     date_end: 2025-06-05
 
-  - area: B.Sc. Systems Engineering
+  - area: B.Sc. Computer Science
     institution: Universidad Industrial de Santander
     date_start: 2019-01-14
     date_end: 2023-02-05
@@ -160,4 +160,6 @@ Awards:
 ---
 
 ## About Me
-I am a young researcher at the High Dimensional Signal Processing Group (HDSP) in Colombia, dedicated to advancing the fields of computational imaging, signal processing, and deep learning. My work is driven by the conviction that technology and innovation are key levers for positive impact. Academically, I have a robust background from the Universidad Industrial de Santander, having completed my Master’s in Systems Engineering in 2025. I graduated with high honors from the Systems Engineering undergraduate program in 2023 (Cum Laude), and my thesis was recognized with the Outstanding Undergraduate Thesis Award. My academic and research potential has been further recognized by the IEEE Signal Processing Society (SPS) Scholarship in both 2023 and 2024.
+**Prospective PhD student (Fall 2026)**
+
+I am a young researcher at the High Dimensional Signal Processing Group (HDSP) in Colombia, dedicated to advancing the fields of computational imaging, signal processing, and deep learning. My work is driven by the conviction that technology and innovation are key levers for positive impact. Academically, I have a robust background from the Universidad Industrial de Santander, having completed my Master’s in Computer Science in 2025. I graduated with high honors from the Computer Science undergraduate program in 2023 (Cum Laude), and my thesis was recognized with the Outstanding Undergraduate Thesis Award. My academic and research potential has been further recognized by the IEEE Signal Processing Society (SPS) Scholarship in both 2023 and 2024.
